@@ -2,8 +2,7 @@
 
 A collaborative real-time drawing application where multiple users can draw together on a shared canvas simultaneously using WebSockets.
 
-![Real-Time Canvas Party Preview](https://github.com/somayehva/Real-Time-Canvas-Party/blob/main/Fun%20With%20Canvas.png)
-
+![Real-Time Canvas Party Preview]
 ## ✨ Features
 
 - **Real-Time Collaborative Drawing**: Multiple users can draw simultaneously and see each other's work instantly
@@ -25,7 +24,7 @@ A collaborative real-time drawing application where multiple users can draw toge
 
 ```bash
 # Clone the repository
-git clone https://github.com/somayehva/Real-Time-Canvas-Party.git
+git clone https://github.com/AniBande/Colab_Canvas-.git
 cd Real-Time-Canvas-Party
 
 # Install dependencies
@@ -120,10 +119,6 @@ For detailed architecture, data flow, WebSocket protocol, and conflict resolutio
 - [ ] Export to image/PDF
 - [ ] Offline mode with sync
 
-## 📝 License
 
-This project is licensed under the MIT License
-
-## 📧 Questions?
 
 See [ARCHITECTURE.md](./ARCHITECTURE.md) for technical details and design decisions.
